@@ -1,7 +1,7 @@
 - 👋 oi, me chamo breno
 - 👀 I’m interested in learn javascript
 - 🌱 I’m currently learning html, css,e javascript
-- 💞️ I’m looking to collaborate on to help me grow in this area
+- 💞️ I’m looking to collaborate on grow in this area
 - 📫 How to reach me : Brenotexexa8@gmail.com
 - ⚡ Fun fact: ...
 
